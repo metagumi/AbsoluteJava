@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AbsoluteJava.iml" filepath="$PROJECT_DIR$/.idea/modules/AbsoluteJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AbsoluteJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AbsoluteJava_main.iml" group="AbsoluteJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AbsoluteJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AbsoluteJava_test.iml" group="AbsoluteJava" />
+    </modules>
+  </component>
+</project>
