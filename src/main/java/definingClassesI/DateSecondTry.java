@@ -12,7 +12,13 @@ public class DateSecondTry {
     }
 
     public void wtiteOutput(){
-        System.out.println(month + " " + day + ", " + year);    }
+        System.out.println(month + " " + day + ", " + year);
+    }
+
+    public void happyGreeting( int nbrGreets ) {
+        for (int i = 0; i < nbrGreets; i++)
+            System.out.println("Happy Days!");
+    }
 
     public int getMonth() {
         if (month.equalsIgnoreCase("January"))

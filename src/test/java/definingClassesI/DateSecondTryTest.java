@@ -17,6 +17,7 @@ public class DateSecondTryTest {
     public void testDayExists() {
         DateSecondTry date1 = new DateSecondTry("July", 4, 2017);
         assertEquals("current day = 4", 4, date1.getDay());
+        date1.happyGreeting(date1.getDay());
     }
 
     @Test
